@@ -1,3 +1,0 @@
-C:/Users/tanki/CLionProjects/A&Dstr/Lab3/cmake-build-release/CMakeFiles/Lab3.dir
-C:/Users/tanki/CLionProjects/A&Dstr/Lab3/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/tanki/CLionProjects/A&Dstr/Lab3/cmake-build-release/CMakeFiles/rebuild_cache.dir
